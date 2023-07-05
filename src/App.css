@@ -39,8 +39,12 @@ a {
   padding-block: 1rem;
 }
 
-.mb-2 {
-  margin-bottom: 0.5rem;
+.pt-0 {
+  padding-block-start: 0;
+}
+
+.mb-24 {
+  margin-block-end: 6rem;
 }
 
 .inline-block {
@@ -63,8 +67,39 @@ a {
   border-bottom: 1px solid rgba(0, 0, 0, 0.25);
 }
 
+.border-b-4 {
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-bottom: 4px solid;
+}
+
+.border-blue-500 {
+  border-color: rgb(59, 130, 246);
+}
+
+.h-full {
+  height: 100%;
+}
+
 .h-screen {
   height: 100vh;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.overflow-x-hidden {
+  overflow-x: hidden;
+}
+
+.overflow-x-auto {
+  overflow-x: auto;
 }
 
 .overflow-y-auto {

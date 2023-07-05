@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div className="app flex">
       <Aside />
-      <div className="right-side h-screen overflow-y-auto">
+      <div className="right-side h-screen overflow-hidden">
         <Tabs />
         <TabContent />
       </div>
