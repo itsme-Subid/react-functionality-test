@@ -12,7 +12,7 @@
 
 </div>
 
-Welcome to the React-Functionality-Test repository! React-Functionality-Test is a visually stunning website built using React.js, TypeScript, Redux and Styled-Components. The project is a front-end development endeavor and can be found on [GitHub](https://github.com/itsme-Subid/React-Functionality-Test).
+Welcome to the React-Functionality-Test repository! React-Functionality-Test is a visually stunning website built using React.js, TypeScript, Redux and CSS. The project is a front-end development endeavor and can be found on [GitHub](https://github.com/itsme-Subid/React-Functionality-Test).
 
 ## Getting Started
 
